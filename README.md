@@ -1,4 +1,4 @@
-TP de TDD: ParkingMeter par Julien & Pierre
+TP de TDD: ParkingMeter, Sources par Julien & Pierre
 ================================
 
 50 min de codage en Pair Programming sur le sujet suivant:
