@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ParcMetre
 {
-    class ParcMeter
+    public class ParcMeter
     {
         int ValeurCourante { get; set; }
 
